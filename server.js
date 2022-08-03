@@ -25,6 +25,11 @@ app.use((req, res, next) => {
 
 app.use('/api', require('./router'));
 
+import path from 'path'
+app.get('/*', function(req, res) {
+    return res.sendFile(path.join(__dirname + '/build', 'index.html'));
+});
+
 app.use((req, res, next) => {
 	logger.log('the url you are trying to reach is not hosted on our server', 'error');
 	const err = new Error('Not Found');

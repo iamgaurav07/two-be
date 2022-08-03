@@ -62,3 +62,6 @@
 2022-08-03 18:39:15 error: status 400, Cannot set headers after they are sent to the client
 2022-08-03 18:39:49 error: status 401, please provide a vaid token ,your token might be expired!
 2022-08-03 18:39:51 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 22:05:43 error: the url you are trying to reach is not hosted on our server
+2022-08-03 22:05:43 error: the url you are trying to reach is not hosted on our server
+2022-08-03 22:05:48 error: the url you are trying to reach is not hosted on our server
