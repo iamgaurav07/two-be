@@ -1,0 +1,64 @@
+2022-08-03 00:41:58 error: status 400, config is not defined
+2022-08-03 00:43:56 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 00:43:58 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 16:38:04 error: the url you are trying to reach is not hosted on our server
+2022-08-03 16:38:04 error: the url you are trying to reach is not hosted on our server
+2022-08-03 16:38:04 error: the url you are trying to reach is not hosted on our server
+2022-08-03 16:44:19 error: error while connecting to mongodb {"message":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/","reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-swast2-shard-0"}}
+2022-08-03 17:38:59 error: status 400, Username or Password is not valid
+2022-08-03 17:39:05 error: status 400, Username or Password is not valid
+2022-08-03 17:40:27 error: status 400, Username or Password is not valid
+2022-08-03 17:41:15 error: status 400, Username or Password is not valid
+2022-08-03 17:42:20 error: status 400, Username or Password is not valid
+2022-08-03 18:27:21 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:27:22 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:28:32 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:28:33 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:29:47 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:29:48 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:29:48 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:29:49 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:29:59 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:30:00 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:30:20 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:30:21 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:30:22 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:30:24 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:30:26 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:30:28 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:30:37 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:30:38 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:31:00 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:31:02 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:31:10 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:31:11 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:31:35 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:31:36 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:32:34 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:32:36 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:32:40 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:32:41 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:33:02 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:33:04 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:33:06 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:33:07 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:33:11 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:33:12 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:33:39 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:33:40 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:36:00 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:36:01 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:36:33 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:36:34 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:37:00 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:37:01 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:38:01 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:38:02 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:38:24 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:38:25 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:38:42 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:38:43 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:39:14 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:39:15 error: status 400, Cannot set headers after they are sent to the client
+2022-08-03 18:39:49 error: status 401, please provide a vaid token ,your token might be expired!
+2022-08-03 18:39:51 error: status 400, Cannot set headers after they are sent to the client
